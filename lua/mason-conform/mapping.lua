@@ -38,6 +38,7 @@ M.conform_to_package = {
     ["easy-coding-standard"] = "easy-coding-standard",
     ["elm_format"] = "elm-format",
     -- erb_format
+    ["erb_format"] = "erb-formatter",
     ["eslint_d"] = "eslint_d",
     ["fantomas"] = "fantomas",
     -- fish_indent
